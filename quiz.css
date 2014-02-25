@@ -9,9 +9,6 @@ body{
 .hidden{
 	display: none;
 }
-div{
-	border: 1px dashed yellow;
-}
 #container{
 	background-color: #ffffff;
 	text-align: center;
